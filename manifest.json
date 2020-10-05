@@ -1,11 +1,11 @@
 {
   "manifest_version": 3,
-  "name": "Sci-Hub Now!",
-  "short_name": "sci-hub-now",
-  "version": "0.0.2",
-  "author": "Orçun Özdemir",
-  "homepage_url": "https://github.com/0x01h/sci-hub-now",
-  "description": "Free access to academic papers with just a single click! Abolish publishers, long live the open access movement!",
+  "name": "Sci-Hub Now! 2020",
+  "short_name": "sci-hub-now 2020",
+  "version": "0.0.3",
+  "author": "Jose Escamilla",
+  "homepage_url": "https://github.com/Jose-Escamilla/Sci-Hub-2020",
+  "description": "Free access to academic papers with just a single click! Abolish publishers, long live the open access movement! Update 2020!",
   "icons": {
     "48": "icons/scihub48x48.png",
     "96": "icons/scihub96x96.png"
