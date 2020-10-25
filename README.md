@@ -21,8 +21,8 @@ Example popular publishers:
 
 _In memory of Aaron Swartz..._
 
-**Mozilla Add-on**: https://addons.mozilla.org/en-US/firefox/addon/sci-hub-now/<br>
-**Chrome Web Store**: https://chrome.google.com/webstore/detail/sci-hub-now/jnlldhggdfnbabnjbgahoabglgmjbhdl
+**Mozilla Add-on**: <br>
+**Chrome Web Store**: 
 
 ![Mozilla Add-on](https:)
 ![Chrome Web Store](https://)
