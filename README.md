@@ -24,5 +24,5 @@ _In memory of Aaron Swartz..._
 **Mozilla Add-on**: https://addons.mozilla.org/en-US/firefox/addon/sci-hub-now/<br>
 **Chrome Web Store**: https://chrome.google.com/webstore/detail/sci-hub-now/jnlldhggdfnbabnjbgahoabglgmjbhdl
 
-![Mozilla Add-on](https://img.shields.io/amo/v/sci-hub-now)
-![Chrome Web Store](https://img.shields.io/chrome-web-store/v/jnlldhggdfnbabnjbgahoabglgmjbhdl)
+![Mozilla Add-on](https:)
+![Chrome Web Store](https://)
