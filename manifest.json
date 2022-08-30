@@ -1,5 +1,5 @@
 {
-  "manifest_version": 3,
+  "manifest_version": 2,
   "name": "Sci-Hub Now! 2020",
   "short_name": "sci-hub-now 2020",
   "version": "0.0.3",
